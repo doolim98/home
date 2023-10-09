@@ -1,0 +1,21 @@
+# Ignore everything
+*
+
+# But not these files.
+!.gitignore
+!.gitconfig
+!.zshrc
+!.gitignore_global
+!.gitattributes_global
+!README.md
+
+# And those folders.
+!.github/
+!.github/**
+
+# Add Aspell.
+!.aspell/
+!.aspell/**
+
+# Ignore so we won't commit these in the allowed dirctories.
+.DS_Store

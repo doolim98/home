@@ -1,0 +1,4 @@
+# Home
+```shell
+cd $HOME
+```
