@@ -10,6 +10,8 @@
 !README.md
 
 # And those folders.
+!Templates/
+!Templates/**
 !Scripts/
 !Scripts/**
 !.github/
